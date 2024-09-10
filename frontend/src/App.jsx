@@ -10,6 +10,7 @@ import { Loader } from "lucide-react";
 import WatchPage from "./pages/WatchPage.jsx";
 import SearchPage from "./pages/SearchPage.jsx";
 import SearchHistoryPage from "./pages/SearchHistoryPage.jsx";
+import NotFoundPage from "./pages/404.jsx";
 
 function App() {
   const { user, isCheckingAuth, authCheck } = useAuthStore();
@@ -58,6 +59,7 @@ function App() {
           element={user ? <SearchHistoryPage /> : <Navigate to={"/login"} />}
         />
         ;
+        <Route path="/*" element={<NotFoundPage />} />;
       </Routes>
       <Footer />
 
