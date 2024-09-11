@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Acesse o link do projeto aqui!](https://netflix-clone-fd0i.onrender.com)
+[Acesse o link do projeto aqui!](https://streaming-ntflx.onrender.com)
 
 Sobre este projeto:
 
