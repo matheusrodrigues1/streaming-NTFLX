@@ -1,6 +1,12 @@
 <h1 align="center">Clone da Netflix 🎬</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
+<img src="https://img.shields.io/badge/-React.js-black?style=for-the-badge&logo=react&logoColor=61DAFB&color=000000" alt="reactjs" />
+<img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=green&color=000000" alt="nodejs" />
+<img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white&color=000000" alt="expressjs" />
+<img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248&color=000000" alt="mongodb" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" alt="tailwindcss" />
+
 
 [Acesse o link do projeto aqui!](https://streaming-ntflx.onrender.com)
 
