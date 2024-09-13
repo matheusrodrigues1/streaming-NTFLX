@@ -24,11 +24,19 @@ Sobre este projeto:
 - 🌐 Implantação
 - 🚀 E muitos outros recursos
 
-## Autor
+## Autor/frontend/public/profile.jpg
 
-✉️: [Email](carlostech873@gmail.com)</br>
-📄: [Currículo](https://drive.google.com/file/d/1Jfn9RAqFR3YaQbL8j_lJA0z8HHlLI3Xq/view?pli=1)</br>
-💼: [Linkedin](https://www.linkedin.com/in/matheus-rodrigues-1a1899231/)</br>
-📸: [Instagram](https://www.instagram.com/math.eusrrodrigues/)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; margin-right: 20px;">
+    <p>✉️: <a href="mailto:carlostech873@gmail.com">Email</a></p>
+    <p>📄: <a href="https://drive.google.com/file/d/1Jfn9RAqFR3YaQbL8j_lJA0z8HHlLI3Xq/view?pli=1" target="_blank">Currículo</a></p>
+    <p>💼: <a href="https://www.linkedin.com/in/matheus-rodrigues-1a1899231/" target="_blank">LinkedIn</a></p>
+    <p>📸: <a href="https://www.instagram.com/math.eusrrodrigues/" target="_blank">Instagram</a></p>
+  </div>
+  <img src="/frontend/public/profile.jpg" alt="Profile Picture" style="width: 100px; height: 130px; object-fit: cover; border-radius: 8px;">
+</div>
+
+
+
 
 ### 🚀
